@@ -7,6 +7,17 @@ email: shuaiy6@uw.edu
 
 Phone number: 2063795423
 
+https://www.linkedin.com/in/shuai-yuan-b59091266/
+
+# Summary
+Summary of my role
+
+- Accomplishment that contains **bold text**
+- Volunteering in Cambodia
+- Third Prize in National Linguistics Olympiad
+- Undergraduate Honors Degree
+
+![My favorite viewpoint](https://www.tehaleh.com/media/8070156/mt-rainier-paradise-1.png?format=jpeg)
 
 # Skills and Languages
 Computer Skills: Python, R, SQL, GeoPandas, QGIS, MATLAB, Java, JavaScript, Jupyter Lab, OGR, Rasterio, GDAL, PostGIS, Azure, Sublime Text, HTML, CSS, Leaflet JS, AI, AE, PS, Figma
@@ -34,6 +45,8 @@ GIS Intern, Navigation Map Production Division
 Participated in the calibration of satellite navigation systems and high-precision maps, improved positioning accuracy through error correction approach, including differential GPS, vehicle-mounted sensors, map matching and inertial navigation systems. Converted a 2D map to a 3D scene based on ArcGIS Pro, performed spatial analysis with ArcGIS. Realized a 3D visualization of a street scene with ArcGIS Pro and QGIS
 
 ## University of Washington (Seattle, WA)
+[University of Washington]: https://www.washington.edu/
+
 B.A. with Honors (expected in May 2024)	09/2020-05/2024
 
 Major: Geography with Data Science Option
