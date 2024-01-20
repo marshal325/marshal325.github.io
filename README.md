@@ -10,13 +10,14 @@ Phone number: 2063795423
 https://www.linkedin.com/in/shuai-yuan-b59091266/
 
 # Summary
-Summary of my role
+>Summary of my role
 
-- Accomplishment that contains **bold text**
+- Here are my several **accomplishment**
 - Volunteering in Cambodia
 - Third Prize in National Linguistics Olympiad
 - Undergraduate Honors Degree
 
+>This is my favorite viewpoint in Seattle
 ![My favorite viewpoint](https://www.tehaleh.com/media/8070156/mt-rainier-paradise-1.png?format=jpeg)
 
 # Skills and Languages
